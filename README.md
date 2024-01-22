@@ -1,5 +1,5 @@
 # CleanArch
-Agenda de contatos utilizando .NET utilizando Clean Architecture 
+Agenda de contatos feita em .NET utilizando Clean Architecture 
 
 Tecnologias:
 
