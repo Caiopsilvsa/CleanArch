@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TtHn3iXOh1VZhutZ8Q/71SKt/cRsB5qrslMvpZDKvb08kbQuRJlgCub0+vBwAX30AceGn9QMdkS1AF8HGK6H3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caio\\OneDrive\\Documentos\\Estudos\\.NET\\.NET Clean App\\Clean Arch\\CleanArch.Application\\CleanArch.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
